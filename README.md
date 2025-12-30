@@ -6,7 +6,7 @@ Hello, I am **Aphiwitch Prangtho**. I have knowledge and skills in web developme
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aphiwich-prangtho-0b769931a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://www.youtube.com/@APHIWICHPRANGTHO-im4qe" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a><a href="https://medium.com/@BaseBa1l" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.linkedin.com/in/aphiwich-prangtho-5b23143a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://www.youtube.com/@Baseba-1l" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a><a href="https://medium.com/@aphiwichprangtho.baseba1l" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Aphiwich3&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
